@@ -18,13 +18,14 @@ This application designed for a beauty salon item selling shop.
 - NetBeans IDE
 
 ## Usage
--Select a beauty product from the dropdown menu
--Enter the quantity and price in the respective text fields.
--Click the "Add" button to add the item to the bill.
--The total for the item will be calculated and displayed.
--To remove an item, select it from the table and click the "Remove" button.
+- Select a beauty product from the dropdown menu
+- Enter the quantity and price in the respective text fields.
+- Click the "Add" button to add the item to the bill.
+- The total for the item will be calculated and displayed.
+- To remove an item, select it from the table and click the "Remove" button.
 
-#Screanshots
+## Screanshots
+
 ### Front View
 ![1view](https://github.com/user-attachments/assets/08e0166a-0090-4bda-956b-b707b927642e)
 
